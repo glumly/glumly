@@ -5,7 +5,7 @@
 
 full-stack developer building discord bots, web apps and the infrastructure that runs them. i take a product from the first commit to the server it lives on: the backend, the frontend, the database, the deploys and the monitoring.
 
-[fray.lol](https://fray.lol) &nbsp;&nbsp; [docs](https://docs.fray.lol) &nbsp;&nbsp; [email](mailto:glumly@fray.lol)
+[coy.baby](https://coy.baby) &nbsp;&nbsp; [chat](https://coy.baby/#contact) &nbsp;&nbsp; [email](mailto:glumly@fray.lol)
 
 #### projects
 
@@ -26,4 +26,4 @@ all of it is built under [ashfall](https://github.com/ashfall-sh).
 
 <br><br>
 
-<img src="assets/terminal.svg" width="100%" alt="glumly@fray: whoami, full-stack developer in the united kingdom. projects: fray, feign, unripe. open to projects and contributions.">
+<img src="assets/terminal.svg" width="100%" alt="glumly@fray: whoami, full-stack developer in vancouver. projects: fray, feign, unripe. open to projects and contributions.">

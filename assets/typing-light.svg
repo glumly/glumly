@@ -26,5 +26,5 @@
   <animate attributeName="opacity" dur="13.5s" repeatCount="indefinite" keyTimes="0;0.6667;0.8167;0.9500;1.0000;1" values="0;1;1;1;0;0" calcMode="discrete"/>
   <animate attributeName="x" dur="13.5s" repeatCount="indefinite" keyTimes="0;0.6667;0.8167;0.9500;1.0000;1" values="172.0;172.0;621.2;621.2;172.0;172.0" calcMode="linear"/>
 </rect>
-<text class="tag" x="170" y="156">~/united-kingdom</text>
+<text class="tag" x="170" y="156">~/vancouver</text>
 </svg>
